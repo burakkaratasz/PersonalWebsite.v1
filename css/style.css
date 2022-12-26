@@ -1,0 +1,81 @@
+body{
+    background-color:#36454F;
+}
+
+.baslik{
+    color: whitesmoke;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 300px;
+    margin-left:475px;
+    
+}
+
+.colorwhite{
+    color: whitesmoke;
+}
+
+.cardboyut{
+    margin-top: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.imgboyut{
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.baslik2{
+    color: whitesmoke;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 600px;
+    margin-left:420px;
+    margin-bottom: -300px;
+}
+
+.colorblack{
+    color: black;
+}
+
+.butonkonum1{
+    margin-left: 300px;
+}
+
+.imgboyut2{
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 90px;
+}
+
+.baslik3{
+    color: whitesmoke;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 600px;
+    margin-left:460px;
+    margin-bottom: -300px;
+}
+
+.baslik4{
+    color: whitesmoke;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 600px;
+    margin-left:550px;
+    margin-bottom: -300px;
+}
+
+.baslik5{
+    color: whitesmoke;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 600px;
+    margin-left:420px;
+    margin-bottom: -50px;
+}
+
+.logo{
+    margin-top: 100px;
+    margin-left: 550px;
+    margin-bottom: 300px;
+
+}
+
